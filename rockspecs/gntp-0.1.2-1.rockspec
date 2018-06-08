@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "gntp"
-version = "0.1.1-1"
+version = "0.1.2-1"
 
--- LuaDist source
 source = {
-  tag = "0.1.1-1",
-  url = "git://github.com/LuaDist-testing/gntp.git"
+  url = "https://github.com/moteus/lua-gntp/archive/v0.1.2.zip",
+  dir = "lua-gntp-0.1.2",
 }
--- Original source
--- source = {
---   url = "https://github.com/moteus/lua-gntp/archive/v0.1.1.zip",
---   dir = "lua-gntp-0.1.1",
--- }
 
 description = {
   summary    = "Implementation of Growl Notify Transport Protocol (GNTP) for Lua.",
